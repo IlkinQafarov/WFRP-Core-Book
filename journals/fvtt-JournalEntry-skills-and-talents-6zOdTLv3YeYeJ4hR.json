@@ -81,7 +81,7 @@
         "default": -1
       }
     },
-    {
+        {
       "name": "Уход за животными",
       "type": "text",
       "_id": "QZx9CbhGkIaDMQD3",
@@ -92,8 +92,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Инт) </strong><em><strong>профессиональный</strong></em></p><p>Навык «Уход за животными» позволяет ухаживать за ними и лечить, если они заболели или получили ранения.</p><p>Один единственный Шаг развития в «Уходе за животными» означает, что вы можете поддерживать здоровье животных без необходимости совершать Проверки. Также вы можете совершать Проверку «Уход за животными», чтобы определить и решить проблемы, например:</p><ul><li><p>Определить болезнь.</p></li><li><p>Понять причину раздражения или дискомфорта.</p></li><li><p>Оценить качество животного.</p></li><li><p>Исцелить ИнтБ + УЭ Ран (Примечание: животное может получить пользу только от одного броска лечения после каждого столкновения).</p></li><li><p>Остановить Кровотечение.</p></li><li><p>Подготовить животное к показу.</p></li></ul><p>В бою вы можете провести оценку вражеского животного с помощью «Ухода за животными». При успехе вы и все, кого вы проинформируете, получаете +10 к попаданию по этому животному — или по любому, кто использует его как скакуна — до конца вашего следующего хода, так как вы указываете на плохо закреплённую сбрую, хромоту из-за старой раны или иные слабости. «Уход за животными» может давать максимум +10 к попаданию по одному животному, независимо от числа успешных Проверок.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ЖИВОТНЫЕ</em></h3><p><em>Относится ли существо к области Навыков «Уход за животными» и «Усмирение животных» — решает Ведущий. Хотя некоторые существа — @UUID[Compendium.wfrp4e-core.actors.R1iWvfV9EvgIc8bJ]{Собака}, @UUID[Compendium.wfrp4e-core.actors.b1R5sW6lYIViJ2ki]{Лошадь}, @UUID[Compendium.wfrp4e-core.actors.MLtDY4bwzGQpaABN]{Полугриф} — очевидны, другие не столь однозначны. Можно спорить, что @UUID[Compendium.wfrp4e-core.actors.LZttdCIxmFr1sGsS]{Дракон} подпадает под «Усмирение животных», но попробуйте сказать это самому Дракону…</em></p></blockquote>",
-        "markdown": ""
+        "content": "<p><strong>(Инт) </strong><em><strong>профессиональный</strong></em></p><p>Навык Ухода за животными позволяет заботиться о зверях и лечить их, если они заболеют или будут ранены.</p><p>Наличие хотя бы одного продвижения в навыке означает, что вы можете поддерживать животных в здоровом состоянии без проверок. Также вы можете проводить проверку Ухода за животными, чтобы выявить и устранить проблемы, например:</p><ul><li><p>Обнаружить болезнь.</p></li><li><p>Понять причину беспокойства или дискомфорта.</p></li><li><p>Определить качество животного.</p></li><li><p>Вылечить Инт Бонус + SL Ран (Примечание: животное может получить только один бросок лечения после каждого столкновения).</p></li><li><p>Остановить Кровотечение.</p></li><li><p>Подготовить животное к показу.</p></li></ul><p>В бою вы можете провести проверку Ухода за животными, чтобы оценить вражеского зверя. При успехе вы и все, кому вы сообщили, получаете +10 к атаке против этого животного — или того, кто использует его как скакуна — до конца вашего следующего хода, указывая на слабую сбрую, хромоту или другие уязвимости. Максимум +10 к атаке на одно животное, независимо от количества проверок.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ЖИВОТНЫЕ</em></h3><p><em>Какие существа относятся к сфере Ухода за животными и Дрессировки, решает Мастер. Некоторые — @UUID[Compendium.wfrp4e-core.actors.R1iWvfV9EvgIc8bJ]{Собака}, @UUID[Compendium.wfrp4e-core.actors.b1R5sW6lYIViJ2ki]{Лошадь}, @UUID[Compendium.wfrp4e-core.actors.MLtDY4bwzGQpaABN]{Демигриф} — очевидны. Другие — нет. Вы можете спорить, что @UUID[Compendium.wfrp4e-core.actors.LZttdCIxmFr1sGsS]{Дракон} подпадает под Дрессировку… но попробуйте сказать это самому дракону.</em></p></blockquote>"
       },
       "video": {
         "controls": true,
@@ -117,7 +116,7 @@
       }
     },
     {
-      "name": "Усмирение животных",
+      "name": "Дрессировка животных",
       "type": "text",
       "_id": "vbOc3JVfG2nfK1P0",
       "title": {
@@ -127,8 +126,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Инт) </strong><em><strong>профессиональный, сгруппированный</strong></em></p><p>Навык «Усмирение животных» отражает ваше понимание конкретного вида животных и способность их дрессировать. Успешное использование Навыка позволяет вам определить, какими выученными способностями обладает животное, относящееся к вашей @UUID[.QuybQPVJGWCmzGm3#grouped-skills-and-specialisation]{Специализации}. Также навык «Усмирение животных» позволяет вам предпринять @UUID[JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.WQQk92GoGp7fRH89]{Дрессировку животных} как Занятие между приключениями.</p><p>В бою успешная <strong>Противоположная Проверка «Усмирение животных»/Сила воли</strong> позволяет вам запугать одно животное, относящееся к вашей Специализации; вы накладываете на цель состояние @UUID[Compendium.wfrp4e-core.items.Ib2YQYChktDFN93y]{Страх} до конца вашего следующего хода. Когда вы вызываете Страх таким образом, вы можете впоследствии использовать «Усмирение животных» вместо «Рукопашного боя» при защите от своей цели; с одобрения Ведущего вы также можете использовать «Усмирение животных», чтобы атаковать цель, отдавая ей определённые команды.</p><p><strong>Пример</strong>: <em>Столкнувшись с бешено рычащей боевой собакой, Ильзе проходит Противоположную Проверку «Усмирение животных (Собаки)» в первый раунд боя, внушая зверю Страх и получая +1 Преимущество. В следующий раунд она «атакует» цель с помощью Навыка «Усмирение животных», превзойдя защиту пса. Ведущий позволяет ей приказать зверю убежать, что он и делает, поджав хвост.</em></p><p><strong>Специализации</strong>: Полугриф, Собака, Лошадь, Пегас, Голубь</p>",
-        "markdown": ""
+        "content": "<p><strong>(Инт) </strong><em><strong>профессиональный, сгруппированный</strong></em></p><p>Дрессировка животных отражает ваше понимание конкретного вида зверей и умение их обучать. Успешная проверка позволяет определить, какими выученными способностями обладает животное вашей @UUID[.QuybQPVJGWCmzGm3#grouped-skills-and-specialisation]{специализации}. Также этот навык позволяет выполнять занятие @UUID[JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.WQQk92GoGp7fRH89]{Дрессировка животных} между приключениями.</p><p>В бою успешная <strong>Противоположная проверка Дрессировки/Силы Воли</strong> позволяет запугать одно животное вашей специализации; цель получает @UUID[Compendium.wfrp4e-core.items.Ib2YQYChktDFN93y]{Страх} до конца вашего следующего хода. В этом случае вы можете использовать Дрессировку вместо Рукопашного боя для защиты от этой цели; с одобрения Мастера вы можете также использовать навык, чтобы атаковать — отдавая зверю команды.</p><p><strong>Пример</strong>: <em>Столкнувшись с рычащей боевой собакой, Ильзе выигрывает Противоположную проверку Дрессировки (Собака) в первом раунде боя, пугая зверя и получая +1 Преимущество. В следующем раунде она «атакует» собаку своей Дрессировкой, побеждая её защиту. Мастер разрешает ей приказать псу убежать — и он уносится с поджатым хвостом.</em></p><p><strong>Специализации</strong>: Демигриф, Собака, Лошадь, Пегас, Голубь</p>"
       },
       "video": {
         "controls": true,
@@ -222,7 +220,7 @@
       }
     },
     {
-      "name": "Bribery",
+      "name": "Подкуп",
       "type": "text",
       "_id": "IwGXgEPOkNVZ0SwI",
       "title": {
@@ -327,7 +325,7 @@
       }
     },
     {
-      "name": "Charm Animal",
+      "name": "Очарование животных",
       "type": "text",
       "_id": "1N6sOXgrqF1KkIh0",
       "title": {
@@ -337,8 +335,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(WP) </strong><em><strong>basic</strong></em></p><p>Your aptitude for befriending, quickly calming, or subjugating animals.</p><p>Passing a Charm Animal Test allows you to influence the behaviour of one or more animals, to a maximum of Willpower Bonus + SL. If the target animals are naturally docile, this Test may be uncontested, but it will generally be Opposed by the target’s Willpower.</p><p>In combat, you may use Charm Animal when facing animals. If you succeed, any affected targets will not attack you this Round and you gain +1 Advantage. You may do this in successive rounds until you choose to stop or fail a Charm Test, after which the creature’s instincts take over and you have no further influence.</p>",
-        "markdown": ""
+        "content": "<p><strong>(СВ) </strong><em><strong>основной</strong></em></p><p>Ваша способность подружиться с животными, быстро их успокоить или подчинить.</p><p>Успешная проверка Очарования животных позволяет повлиять на поведение одного или нескольких зверей в пределах бонуса Силы Воли + SL. Если цель по природе своей спокойна, проверка может быть неконтестируемой, но чаще всего проводится как Противоположная с Силой Воли животного.</p><p>В бою вы можете использовать Очарование животных против зверей. При успехе затронутые цели не атакуют вас в этот раунд, а вы получаете +1 Преимущество. Это можно повторять каждый ход, пока вы не решите остановиться или не провалите проверку, после чего животное снова подчинится своим инстинктам.</p>"
       },
       "video": {
         "controls": true,
@@ -362,7 +359,7 @@
       }
     },
     {
-      "name": "Climb",
+      "name": "Лазание",
       "type": "text",
       "_id": "yOONKSIBrg4FOl20",
       "title": {
@@ -372,8 +369,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(S) </strong><em><strong>basic</strong></em></p><p>The ability to ascend steep or vertical surfaces.</p><p>If time isn’t an issue, and a climb is relatively easy, anyone with Climb Skill is automatically assumed to be able to climb any reasonably small height.</p><p>For any other climbing, refer to @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.bdfiyhEYtKs7irqc#climbing]{Moving During Combat}, which also handles Climbing during combat. You may even find yourself climbing large opponents, though whether that is prudent is debatable.</p><p> </p><div class=\"journal-image centered\"><img src=\"modules/wfrp4e-core/art/other/tower.webp\" width=\"298\" height=\"386\" /></div>",
-        "markdown": ""
+        "content": "<p><strong>(С) </strong><em><strong>базовый</strong></em></p><p>Способность подниматься по крутым или вертикальным поверхностям.</p><p>Если время не имеет значения, а подъём относительно лёгкий, любой, кто владеет навыком Лазания, автоматически считается способным взобраться на разумную высоту.</p><p>Во всех остальных случаях см. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.bdfiyhEYtKs7irqc#climbing]{Передвижение в бою}, где описаны и правила Лазания в сражении. Иногда вам даже может понадобиться вскарабкаться на огромного противника — хотя благоразумность такого решения сомнительна.</p><p> </p><div class=\"journal-image centered\"><img src=\"modules/wfrp4e-core/art/other/tower.webp\" width=\"298\" height=\"386\" /></div>"
       },
       "video": {
         "controls": true,
@@ -397,7 +393,7 @@
       }
     },
     {
-      "name": "Consume Alcohol",
+      "name": "Кутёж",
       "type": "text",
       "_id": "38Ux3mEWYuQ4heIT",
       "title": {
@@ -407,8 +403,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(T) </strong><em><strong>basic</strong></em></p><p>Your ability to handle alcohol without letting it cloud your judgment or render you senseless.</p><p>After each alcoholic drink make a Consume Alcohol Test, modified by the strength of the drink. For each Test you fail, you suffer a –10 penalty to WS, BS, Ag, Dex, and Int, to a maximum of –30 per Characteristic. After you fail a number of Tests equal to your Toughness Bonus, you are Stinking Drunk. Roll on the following table to see what happens:</p><p>@Table[stinking-drunk]</p><p>After not drinking for an hour, enact a <strong>Challenging (+0) Consume Alcohol</strong> Test. The effects of being drunk will wear off after 10–SL hours, with any Characteristic modifiers for being drunk lost over that time. After all effects wear off, enact another <strong>Challenging (+0) Consume Alcohol</strong> Test. You now gain a hangover, which is an @Condition[Fatigued] Condition that cannot be removed for 5–SL hours.</p><p>You may expend 1 Resolve point to ignore the negative modifiers of being drunk until the end of the next round (see @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.pa22HaRw1OBBQaDg#spending-resolve]{Spending Resolve}).</p>",
-        "markdown": ""
+        "content": "<p><strong>(Т) </strong><em><strong>базовый</strong></em></p><p>Ваше умение пить алкоголь, не теряя здравого рассудка и не лишаясь чувств.</p><p>После каждой выпитой дозы алкоголя выполняется Тест Кутёжа с модификатором, зависящим от крепости напитка. За каждую неудачу вы получаете штраф –10 к ББ, ВС, Л, Лвк и Инт, максимум –30 к каждой характеристике. После количества провалов, равного вашему Бонусу Выносливости, вы считаетесь «Пьян в стельку». Бросьте на таблице: @Table[stinking-drunk].</p><p>Через час воздержания выполните <strong>Сложный (+0) Тест Употребления алкоголя</strong>. Эффекты опьянения сходят через 10–SL часов, постепенно снимая штрафы. После этого сделайте ещё один <strong>Сложный (+0) Тест</strong>. Теперь у вас похмелье: вы получаете состояние @Condition[Fatigued], которое держится 5–SL часов и не может быть снято раньше.</p><p>Вы можете потратить 1 очко Решимости, чтобы игнорировать штрафы опьянения до конца следующего раунда (см. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.pa22HaRw1OBBQaDg#spending-resolve]{Трата Решимости}).</p>"
       },
       "video": {
         "controls": true,
@@ -432,7 +427,7 @@
       }
     },
     {
-      "name": "Cool",
+      "name": "Хладнокровие",
       "type": "text",
       "_id": "m14pGtefJzDYhgzW",
       "title": {
@@ -442,32 +437,11 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(WP) </strong><em><strong>basic</strong></em></p><p>Cool allows you to remain calm under stress, resist fear when faced with horror, and stick to your convictions.</p><p>Cool is generally used to resist other Skills — Charm, Intimidate, and similar — but you may also be required to make a Cool Test when faced with anything forcing you to do something you would rather not. Cool is also the primary Skill used to limit @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.5w5YLPNd6AaU4f85]{Psychology}.</p>",
-        "markdown": ""
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
-      "sort": 1400000,
-      "flags": {
-        "core": {}
-      },
-      "_stats": {
-        "coreVersion": "13.348",
-        "systemId": "wfrp4e",
-        "systemVersion": "9.1.5",
-        "lastModifiedBy": null
-      },
-      "category": null,
-      "ownership": {
-        "default": -1
+        "content": "<p><strong>(СВ) </strong><em><strong>базовый</strong></em></p><p>Хладнокровие позволяет сохранять спокойствие под давлением, сопротивляться страху перед ужасом и оставаться верным своим убеждениям.</p><p>Чаще всего Хладнокровие используется для сопротивления другим навыкам — таким как Обаяние, Запугивание и подобные. Также мастер может потребовать проверку Хладнокровия, если на вас оказывается давление, заставляющее действовать против вашей воли. Хладнокровие является основным навыком для ограничения @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.5w5YLPNd6AaU4f85]{Психологии}.</p>"
       }
     },
     {
-      "name": "Dodge",
+      "name": "Уклонение",
       "type": "text",
       "_id": "dPpyiMhPwVGJnJrv",
       "title": {
@@ -477,32 +451,11 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Ag) </strong><em><strong>basic</strong></em></p><p>Dodge is your ability to avoid things, through ducking, diving, and moving quickly, and is used extensively to sidestep falling rocks, incoming weapons, unexpected traps, and the like.</p><p>In combat, Dodge is generally used to resist attacks or avoid damage. Refer to @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.wmA76Q2zJJ9HrkvA]{Rules} for more on this.</p>",
-        "markdown": ""
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
-      "sort": 1500000,
-      "flags": {
-        "core": {}
-      },
-      "_stats": {
-        "coreVersion": "13.348",
-        "systemId": "wfrp4e",
-        "systemVersion": "9.1.5",
-        "lastModifiedBy": null
-      },
-      "category": null,
-      "ownership": {
-        "default": -1
+        "content": "<p><strong>(Л) </strong><em><strong>базовый</strong></em></p><p>Уклонение отражает вашу способность избегать опасностей: нырять, пригибаться и быстро двигаться. Навык используется, чтобы увернуться от падающих камней, оружия, ловушек и прочего.</p><p>В бою Уклонение обычно применяется для сопротивления атакам или чтобы избежать урона. См. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.wmA76Q2zJJ9HrkvA]{Правила} для подробностей.</p>"
       }
     },
     {
-      "name": "Drive",
+      "name": "Вождение",
       "type": "text",
       "_id": "uLPWAFSfT5Vf1zZl",
       "title": {
@@ -512,32 +465,11 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Ag) </strong><em><strong>basic</strong></em></p><p>Drive lets you guide vehicles — most commonly simple carts and lumbering coaches, not to mention the more ‘experimental’ creations of the Imperial Engineers — along the roads of the Empire with as little incident as possible.</p><p>Under normal circumstances, if you possess the Drive Skill, there is no need to Test. If conditions are less than ideal — perhaps the road is in poor condition, or the weather is terrible — a Drive Test will be required. If you do not possess the Drive Skill, you may be required to make a Test to carry out even basic manoeuvres. An Astounding Failure (-6) on a Drive Test means something bad has happened. Roll on the following table:</p><p>@Table[drive-failure]</p><p><strong>Crashing</strong>: Occupants of Crashing vehicles usually suffer [[/r 2d10 # Wounds]] Wounds modified by Toughness Bonus and Armour Points unless the vehicle was moving slowly (as determined by the GM). Crashed vehicles must be repaired by someone with an appropriate Trade Skill, such as Trade (Carpenter) or Trade (Cartwright). Spare wheels can be installed by anyone with a Drive Test or with an appropriate Trade Test.</p><p>In combat, Drive may be used if circumstances allow — for instance, if the party is in a coach being raided by outlaws, and you wish to ram an enemy, or outrun them (see @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.bdfiyhEYtKs7irqc#moving-during-combat]{Moving During Combat}).</p>",
-        "markdown": ""
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
-      "sort": 1600000,
-      "flags": {
-        "core": {}
-      },
-      "_stats": {
-        "coreVersion": "13.348",
-        "systemId": "wfrp4e",
-        "systemVersion": "9.1.5",
-        "lastModifiedBy": null
-      },
-      "category": null,
-      "ownership": {
-        "default": -1
+        "content": "<p><strong>(Л) </strong><em><strong>базовый</strong></em></p><p>Вождение позволяет управлять транспортом — чаще всего простыми повозками или громоздкими дилижансами, а иногда и более «экспериментальными» творениями инженеров Империи — так, чтобы добраться без происшествий.</p><p>При обычных условиях наличие этого навыка избавляет от необходимости проверок. Но если дорога плохая или стоит дурная погода, потребуется проверка Вождения. Без этого навыка даже простые манёвры могут потребовать броска. Ошеломительный провал (-6) означает, что произошло что-то плохое. В этом случае бросьте по таблице:</p><p>@Table[drive-failure]</p><p><strong>Авария</strong>: пассажиры рухнувшего транспорта обычно получают [[/r 2d10 # Ран]] Ран, модифицированных Бонусом Выносливости и Очками Брони, если только транспорт не двигался очень медленно (на усмотрение мастера). Сломанный транспорт должен чинить персонаж с соответствующим навыком Ремесла (например, Ремесло (Плотник) или Ремесло (Колёсник)). Запасное колесо можно установить проверкой Вождения или Ремесла.</p><p>В бою навык Вождения может применяться, если это уместно: например, если партия едет в дилижансе и на неё напали бандиты, можно попытаться протаранить врага или уйти от погони (см. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.bdfiyhEYtKs7irqc#moving-during-combat]{Движение в бою}).</p>"
       }
     },
     {
-      "name": "Endurance",
+      "name": "Стойкость",
       "type": "text",
       "_id": "E9UyI8AMrBqgCX4a",
       "title": {
@@ -547,32 +479,11 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(T) </strong><em><strong>basic</strong></em></p><p>The Endurance Skill is called upon when you must endure hardship, withstand deprivation, sit without moving for long periods of time, or survive harsh environments. In particular, Endurance is Tested to resist or recover from various @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.SjuV1vgbgM49pFpP]{Conditions} and helps you recover lost Wounds. Refer to @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#healing-wounds]{Rules} for more on this.</p>",
-        "markdown": ""
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
-      "sort": 1700000,
-      "flags": {
-        "core": {}
-      },
-      "_stats": {
-        "coreVersion": "13.348",
-        "systemId": "wfrp4e",
-        "systemVersion": "9.1.5",
-        "lastModifiedBy": null
-      },
-      "category": null,
-      "ownership": {
-        "default": -1
+        "content": "<p><strong>(Т) </strong><em><strong>базовый</strong></em></p><p>Стойкость проверяется, когда нужно выдерживать лишения, переносить лишний труд, сохранять неподвижность часами или выживать в суровых условиях. В частности, Стойкость используется для сопротивления или восстановления от различных @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.SjuV1vgbgM49pFpP]{Состояний}, а также помогает восстанавливать потерянные Раны. См. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#healing-wounds]{Правила} для подробностей.</p>"
       }
     },
     {
-      "name": "Entertain",
+      "name": "Артистизм",
       "type": "text",
       "_id": "hrCbYa4b2iKPgBui",
       "title": {
@@ -582,7 +493,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Fel) </strong><em><strong>basic, grouped</strong></em></p><p>Allows you to delight crowds with the spoken word, perhaps by singing, acting, or attempting a few jokes. A successful use of the Entertain Skill means you have entertained patrons near enough to hear you; the SL indicates how well you have done.</p><p>In combat, it is unlikely that Entertain will be of much use, although you may come up with an interesting way to use Entertain (Acting) to confuse or mislead your opponents.</p><p><strong>Specialisations</strong>: Acting, Comedy, Singing, Storytelling</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>THE OLD WORLD’S A STAGE…</em></h3><p><em>While there is some overlap between the Skills of Entertain, Perform, and Play, each reflects a distinct group of Skills.</em></p><p><em>Entertain is a Basic Skill using Fellowship. It represents those Skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</em></p><p><em>@UUID[.6MQIGorN3WgXWfJB]{Perform} is an Advanced Skill using Agility. Perform Specialisations require training to attempt, and rely on physical speed and coordination.</em></p><p><em>@UUID[.N63wZOWw6ZLYnePN]{Play} is also an Advanced Skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</em></p><p><em>You should choose carefully when determining whether your chosen Specialisation belongs to Entertain, Perform, or Play; consider how the character will physically enact the Skill, and whether an untrained beginner could do so with any success. After all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</em></p></blockquote>",
+        "content": "<p><strong>(Х) </strong><em><strong>основной, сгруппированный</strong></em></p><p>Позволяет развлекать публику словом — будь то пение, актёрская игра или попытка рассказать пару шуток. Успешное использование навыка Артистизм означает, что вы развлекли слушателей поблизости; SL показывает, насколько хорошо вы справились.</p><p>В бою Артистизм вряд ли пригодится, хотя вы можете придумать способ использовать Артистизм (Актёрское мастерство), чтобы запутать или ввести противников в заблуждение.</p><p><strong>Специализации</strong>: Актёрское мастерство, Комедия, Пение, Рассказ историй</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ВЕСЬ СТАРЫЙ СВЕТ — СЦЕНА…</em></h3><p><em>Несмотря на некоторые пересечения между Артистизмом, Исполнением и Игрой, каждый отражает отдельную группу умений.</em></p><p><em>Артистизм — это Основной навык на Харизму. Он отражает те формы развлечения, которыми может заняться каждый, даже без подготовки: например, пение или рассказывание историй.</em></p><p><em>@UUID[.6MQIGorN3WgXWfJB]{Исполнение} — это Продвинутый навык на Ловкость. Его специализации требуют обучения и основаны на скорости и координации движений.</em></p><p><em>@UUID[.N63wZOWw6ZLYnePN]{Игра} — тоже Продвинутый навык, но на Ловкость пальцев. Он отражает обучение игре на конкретных музыкальных инструментах, для которых всегда нужны уроки и практика.</em></p><p><em>При выборе специализации решите, к какой категории она относится: к Артистизму, Исполнению или Игре. Подумайте, как персонаж физически реализует умение, и может ли новичок хоть как-то его применить. Ведь кто угодно может попробовать спеть, но вот дать ему волынку…</em></p></blockquote>",
         "markdown": ""
       },
       "video": {
@@ -607,7 +518,7 @@
       }
     },
     {
-      "name": "Evaluate",
+      "name": "Оценка",
       "type": "text",
       "_id": "NtJ85TY8yY3WOGHN",
       "title": {
@@ -617,7 +528,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Int) </strong><em><strong>advanced</strong></em></p><p>Lets you determine the value of rare artefacts, unusual trade goods, and works of art. Everybody is assumed to know the relative worth of general items, but a successful use of the Evaluate allows you to identify the value of curious and unique items. A successful Evaluate Test may also alert you if the goods (or coins) you are studying are counterfeit — this Test will usually be Opposed by the forger’s SL on their Art or Trade Test. Your GM may apply modifiers based on just how rare or obscure the item is, or on your character’s particular expertise or background.</p>",
+        "content": "<p><strong>(Инт) </strong><em><strong>профессиональный</strong></em></p><p>Позволяет определять ценность редких артефактов, необычных товаров и произведений искусства. Все и так знают примерную стоимость обычных вещей, но успешное использование Покупок позволяет определить цену диковинных и уникальных предметов. Успешный тест может также выявить подделку — обычно это Оппонируемый тест против SL подделывателя на Искусство или Торговлю. Ведущий может назначить модификаторы в зависимости от редкости предмета или вашего опыта и происхождения.</p>",
         "markdown": ""
       },
       "video": {
@@ -642,7 +553,7 @@
       }
     },
     {
-      "name": "Gamble",
+      "name": "Азартные игры",
       "type": "text",
       "_id": "JVBD7pcdOPJ4nCjq",
       "title": {
@@ -652,7 +563,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Int) </strong><em><strong>basic</strong></em></p><p>Allows you to measure the likelihood that a bet will pay off, as well as successfully engage in various games of chance.</p><p>To represent a gambling match, all players make a Gamble Test — applying any appropriate modifiers for familiarity with the game — and the player with the highest SL wins. On a tie, any lower scoring players drop out, and those remaining enact another Gamble Test, repeating this process until you have a winner.</p><p>If you wish to influence the game through less honest mechanics, see Sleight of Hand.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>OPTIONS</em></h3><p><em>Some players prefer to use immersive mini-games at the table, playing real card or dice games to aid the roleplaying experience. If you do this, a successful Gamble Test will allow you to influence the game once — by drawing an extra card, or rerolling a die for example — as the GM dictates. Each SL affords you another opportunity to influence the game.</em></p></blockquote>",
+        "content": "<p><strong>(Инт) </strong><em><strong>основной</strong></em></p><p>Позволяет оценивать шансы ставки, а также участвовать в различных играх на удачу.</p><p>Чтобы отыграть партию, все игроки совершают тест Азартных игр — с модификаторами за знание игры. Побеждает тот, кто набрал наибольший SL. При ничьей игроки с меньшими результатами выбывают, а оставшиеся совершают новый тест, пока не определится победитель.</p><p>Если вы хотите повлиять на игру нечестными методами, см. Ловкость рук.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ВАРИАНТЫ</em></h3><p><em>Некоторые игроки предпочитают вставлять реальные мини-игры — например, сыграть в карты или кости прямо за столом. В таком случае успешный тест Азартных игр позволяет повлиять на партию один раз — вытянуть дополнительную карту, перебросить кубик и т. д., по решению Ведущего. Каждый SL даёт ещё одно такое преимущество.</em></p></blockquote>",
         "markdown": ""
       },
       "video": {
@@ -677,7 +588,7 @@
       }
     },
     {
-      "name": "Gossip",
+      "name": "Сплетничество",
       "type": "text",
       "_id": "ns3PDbblIFcwqyQi",
       "title": {
@@ -687,7 +598,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Fel) </strong><em><strong>basic</strong></em></p><p>You can quickly ferret out interesting and useful news, and spread rumours of your own. A successful Gossip Test means you have found out one useful piece of information, which your GM can impart to you, about the local area. Each SL either offers you an additional piece of information, or the chance to spread a rumour to a number of individuals equal to your Fellowship Bonus. The time required for a Gossip Test depends on how circumspect the players are being, and how busy the area is, as determined by the GM.</p><p>It is unlikely that Gossip will be much use in combat, but if your attacker happens to be local, and you happen to know something really juicy…</p><blockquote class=\"sidebar\"><h3 style=\"text-align:center\" class=\"no-toc\"><em>HALF-HEARD WHISPERS</em></h3><p><em>While it may be expedient for GMs to quickly share information gleaned from Gossip Tests to all players at once, it is often more fun to share the information only with individual players (either through a note, or through briefly taking them aside). This means the players must relate this information to one another in-character — aiding the immersive roleplaying experience — which allows for mistakes and misunderstandings, sometimes leading to hilarious, or horrific, results.</em></p></blockquote>",
+        "content": "<p><strong>(Х) </strong><em><strong>основной</strong></em></p><p>Вы умеете быстро выведывать интересные и полезные новости, а также распространять собственные слухи. Успешный тест Сплетничества означает, что вы узнали одну полезную деталь о местности, которую сообщает вам Ведущий. Каждый SL даёт либо дополнительную информацию, либо возможность распространить слух среди числа людей, равного вашему Бонусу Харизмы. Время теста зависит от скрытности и оживлённости места, по решению Ведущего.</p><p>В бою Сплетничество вряд ли поможет… хотя если ваш противник местный, и вы знаете про него что-то пикантное…</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ОБМОЛВКИ И ШЁПОТЫ</em></h3><p><em>Хотя Мастеру проще озвучивать информацию, полученную через Сплетничество, сразу всей группе, интереснее выдавать её только отдельным игрокам (запиской или отдельно), чтобы они передавали сведения от лица персонажей. Это создаёт пространство для ошибок и недопониманий, порой ведущих к комическим или трагическим последствиям.</em></p></blockquote>",
         "markdown": ""
       },
       "video": {
@@ -712,7 +623,7 @@
       }
     },
     {
-      "name": "Haggle",
+      "name": "Торговля",
       "type": "text",
       "_id": "qSSRHdEK5P7VRmKW",
       "title": {
@@ -722,7 +633,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Fel) </strong><em><strong>basic</strong></em></p><p>Haggle allows you to secure better deals when negotiating with others. In general, Haggle is used to see whether you do, or do not, make a good deal, most commonly with an <strong>Opposed Haggle</strong> Test. Specifically, it can be used when shopping to secure better prices. For information on this, refer to <strong>Chapter 11: Consumers’ Guide</strong>.</p>",
+        "content": "<p><strong>(Х) </strong><em><strong>основной</strong></em></p><p>Позволяет вам добиваться лучших условий при переговорах. Обычно Торговля используется, чтобы определить, удалось ли заключить выгодную сделку — чаще всего это <strong>Оппонируемый тест Торговли</strong>. В частности, Торговля применяется при покупках, чтобы сбить цену. Подробности см. в <strong>Главе 11: Путеводитель для потребителя</strong>.</p>",
         "markdown": ""
       },
       "video": {
@@ -747,7 +658,7 @@
       }
     },
     {
-      "name": "Heal",
+      "name": "Лечение",
       "type": "text",
       "_id": "dSf8QWBvN6mlpHBF",
       "title": {
@@ -757,7 +668,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Int) </strong><em><strong>advanced</strong></em></p><p>You’ve been trained to deal with injuries and diseases. A successful Heal Test allows you to do one of the following:</p><ul><li><p>Diagnose an illness, infection, or disease.</p></li><li><p>Treat a @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.9ktDn8cwZj3KZWCH]{disease}.</p></li><li><p>Heal wounds equal to your Intelligence Bonus + SL (Note: a patient can only benefit from one Heal roll after each encounter). If sterile liquids or appropriate poultices and dressings are used, no Infection will develop from the injury (see @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#healing]{Healing}).</p></li><li><p>Staunch a @Condition[Bleeding] Condition, with each SL removing an extra @Condition[Bleeding] Condition.</p></li></ul><p>A Failed Heal Test can potentially cause Wounds if your Intelligence Bonus + SL totals less than 0. On an Astounding Failure, your patient will also contract a @UUID[Compendium.wfrp4e-core.items.1hQuVFZt9QnnbWzg]{Minor Infection}.</p><p>If administering to someone who has a disease, a successful Heal Test ensures that you do not contract the disease for that day. Each SL also prevents one other character encountering the patient that day from catching the disease. For each full day the patient spends resting under your care, the duration of the disease is reduced by one, to a minimum of one. For more information see @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.9ktDn8cwZj3KZWCH]{Disease and Infection}.</p><p>Certain injuries require Surgery; see the @UUID[Compendium.wfrp4e-core.items.NP4EHyyh1yOLbsPU]{Surgery} Talent for details. For more information on healing wounds, refer to @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4]{Injury}.</p><p>Your GM may apply modifiers to Heal Tests to reflect the virulence of the disease, the suitability of conditions and materials, or the stress of your circumstances. If healing during combat, Tests will likely be <strong>Challenging (+0)</strong> at the very least.</p>",
+        "content": "<p><strong>(Инт) </strong><em><strong>профессиональный</strong></em></p><p>Вы обучены справляться с ранениями и болезнями. Успешный тест Лечения позволяет выполнить одно из следующих действий:</p><ul><li>Поставить диагноз болезни или инфекции.</li><li>Вылечить @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.9ktDn8cwZj3KZWCH]{болезнь}.</li><li>Восстановить количество Ран, равное вашему Бонусу Интеллекта + SL (примечание: пациент может получить пользу только от одного теста Лечения после каждого столкновения). Если используются стерильные жидкости или подходящие припарки и повязки, заражения не будет (см. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#healing]{Правила исцеления}).</li><li>Остановить состояние @Condition[Bleeding], при этом каждый SL убирает одно дополнительное состояние @Condition[Bleeding].</li></ul><p>Неудачный тест Лечения может нанести Раны, если ваш Бонус Интеллекта + SL меньше 0. При Потрясающем Провале пациент также получает @UUID[Compendium.wfrp4e-core.items.1hQuVFZt9QnnbWzg]{Лёгкую инфекцию}.</p><p>Если вы ухаживаете за больным, успешный тест Лечения гарантирует, что вы сами не заразитесь в этот день. Каждый SL дополнительно защищает ещё одного персонажа, контактировавшего с пациентом. За каждый полный день отдыха под вашим присмотром длительность болезни сокращается на один день (минимум до 1). Подробнее см. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.9ktDn8cwZj3KZWCH]{Болезни и инфекции}.</p><p>Некоторые травмы требуют хирургии; см. талант @UUID[Compendium.wfrp4e-core.items.NP4EHyyh1yOLbsPU]{Хирургия}. Подробнее об исцелении ран см. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4]{Травмы}.</p><p>Ведущий может накладывать модификаторы к тестам Лечения в зависимости от тяжести болезни, условий, наличия инструментов или стрессовой обстановки. Если лечение происходит прямо в бою, тесты, как минимум, будут <strong>Сложными (+0)</strong>.</p>",
         "markdown": ""
       },
       "video": {
@@ -782,7 +693,7 @@
       }
     },
     {
-      "name": "Intimidate",
+      "name": "Запугивание",
       "type": "text",
       "_id": "mDs8HUZopZAb1fH0",
       "title": {
@@ -792,7 +703,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(S) </strong><em><strong>basic</strong></em></p><p>Allows you to coerce or frighten sentient creatures. The precise manner of initiating an Intimidate Test depends on context: while it is generally accompanied by an overt threat, sometimes a subtle implication or even a look is enough. Intimidate is almost always Opposed by your target’s Cool Skill; if successful, you can intimidate a number of targets up to your Strength Bonus + SL. Each will react to Intimidate based on their individual personalities and how successful you were in menacing them, but in all cases, they will back down or move out of the way and will not speak out against you, or they will alternatively accept combat is the only way forward and prepare their weapons.</p><p>In combat, you cause @UUID[Compendium.wfrp4e-core.items.Ib2YQYChktDFN93y]{Fear} in all Intimidated targets. You may also use your Intimidate Skill instead of Melee when defending against those afraid of you, causing the Intimidated parties to back away from the fight with your will and posture alone. Further, with your GM’s approval, you may use Intimidate to ‘attack’ such targets, issuing specific commands, such as ‘drop your weapons’ or ‘get out of here!’. However, if you fail any of these subsequent Intimidate Tests, you no longer Intimidate (or cause Fear) in affected opponents. With your GM’s permission you may try to Intimidate them again in a later Round, but this will incur a negative modifier, as they are less likely to fear you having seen through your bravado once already.</p><p><strong>Example</strong>: <em>Facing a group of footpads, Svetlana the Strong rolls 4 SL on her Intimidate Test. Combined with her SB of 5, this means she can affect up to 9 targets, more than enough to impact all three footpads who now Fear Svetlana. As she has won by 3 SL, she gains +1 Advantage point until the end of her next turn. In the next round, she ‘attacks’ the footpads using her Intimidate, intending to scare them into leaving her be. However, she fails the Test, and the footpads realise they outnumber her, and are armed…</em></p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>OPTIONS: ALTERNATIVE CHARACTERISTICS FOR INTIMIDATE</em></h3><p><em>While Strength is the default stat for Intimidate Tests, the GM may decree certain situations may allow you to use a different Characteristic: a steely witch hunter may use Willpower to stare down an inquisitive bystander, or an academic may use Intelligence to cow a lowly student with his intimidating knowledge, for instance.</em></p></blockquote><div class=\"journal-image centered\"><img src=\"modules/wfrp4e-core/art/spot/spot-skull-helmet.webp\" width=\"223\" height=\"243\" /></div>",
+        "content": "<p><strong>(С) </strong><em><strong>основной</strong></em></p><p>Позволяет принудить или напугать разумных существ. Точный способ зависит от ситуации: чаще всего это явная угроза, но иногда хватает намёка или даже взгляда. Почти всегда Запугивание оппонируется навыком Хладнокровие цели; при успехе вы можете запугать число существ, равное вашему Бонусу Силы + SL. Их реакция зависит от характера и того, насколько успешно вы их устрашили: они могут отступить, замолчать или, наоборот, решить, что остаётся лишь бой.</p><p>В бою вы вызываете @UUID[Compendium.wfrp4e-core.items.Ib2YQYChktDFN93y]{Страх} у всех запуганных целей. Вы можете использовать Запугивание вместо Рукопашного боя при защите от тех, кто вас боится, заставляя их пятиться только силой вашей воли и позы. С разрешения Ведущего можно «атаковать» запуганных противников, отдавая им приказы («брось оружие», «убирайся!»). Однако при провале такого теста вы теряете запугивание (и Страх) над целями. Снова попытаться можно лишь позже и с модификатором, так как противники уже видели вашу слабину.</p><p><strong>Пример</strong>: <em>Светлана Силачка встречает шайку грабителей и получает 4 SL на Запугивании. С её Бонусом Силы 5 это значит, что она может воздействовать на 9 целей — больше, чем нужно, чтобы запугать всех троих. Так как она победила с преимуществом в 3 SL, она получает +1 Преимущество до конца следующего хода. В следующем раунде Светлана «атакует» их Запугиванием, требуя оставить её в покое. Но она проваливает тест, и бандиты понимают, что их больше и они вооружены…</em></p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ОПЦИИ: ДРУГИЕ ХАРАКТЕРИСТИКИ ДЛЯ ЗАПУГИВАНИЯ</em></h3><p><em>Хотя по умолчанию Запугивание основано на Силе, Ведущий может разрешить использовать другие характеристики в особых ситуациях: например, охотник на ведьм может применить Силу Воли, чтобы испепелить взглядом свидетеля, а учёный — Интеллект, чтобы подавить студента своей эрудицией.</em></p></blockquote>",
         "markdown": ""
       },
       "video": {
@@ -817,7 +728,7 @@
       }
     },
     {
-      "name": "Intuition",
+      "name": "Интуиция",
       "type": "text",
       "_id": "31VEXGfn6houFutI",
       "title": {
@@ -827,7 +738,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(I) </strong><em><strong>basic</strong></em></p><p>The Intuition Skill allows you to get a feel for your surroundings, leading you to notice when something is wrong, and gives you a sense of when people may be hiding something from you. A successful use of the Intuition Skill gives you subtle or implicit intelligence relating to your environment, determined by your GM. This may be information such as whether someone believes what they are saying, what the general attitude is towards the local noble, or if the helpful local’s motives are as pure as they seem. If someone is actively trying to hide their intent, they may resist your Intuition with Cool or Entertain (Acting).</p><p>In combat, a successful Intuition Test may be used to give you +1 Advantage as you weigh the environment and your opponents. You may continue building Advantage in subsequent turns providing you are able to observe your targets and are not interrupted (such as being attacked); you may gain a maximum Advantage equal to your Intelligence Bonus in this manner.</p>",
+        "content": "<p><strong>(И) </strong><em><strong>основной</strong></em></p><p>Интуиция позволяет уловить атмосферу вокруг вас, заметить, что что-то не так, и понять, скрывает ли собеседник свои намерения. Успешный тест Интуиции даёт вам косвенные сведения о происходящем, определяемые Ведущим. Это может быть ощущение, верит ли кто-то в собственные слова, каково общее отношение к местному вельможе или насколько искренни мотивы приветливого жителя.</p><p>Если кто-то специально старается скрыть свои намерения, он может сопротивляться вашей Интуиции с помощью Хладнокровия или Развлечения (Актёрство).</p><p>В бою успешный тест Интуиции может дать вам +1 Преимущество, так как вы оцениваете обстановку и противников. Вы можете продолжать накапливать Преимущество в следующих раундах, пока наблюдаете и вас не прервали (например, атакой). Максимум Преимуществ, полученных таким образом, равен вашему Бонусу Интеллекта.</p>",
         "markdown": ""
       },
       "video": {
@@ -852,7 +763,7 @@
       }
     },
     {
-      "name": "Language",
+      "name": "Язык",
       "type": "text",
       "_id": "xo5U0kL08xCPe6kl",
       "title": {
@@ -862,7 +773,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Int) </strong><em><strong>advanced, grouped</strong></em></p><p>The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak ‘Reikspiel’ — the language of the Empire — and their native language (if your character has one different to Reikspiel), without ever having to Test. If your game is not set in the Empire, replace Reikspiel with the local language.</p><p>If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.</p><p><strong>Note</strong>: Language (Magick) is used to cast spells and may occasionally be Tested, with… unpleasant consequences if failed. Refer to @UUID[JournalEntry.YBVrpUHEjohB1H4f]{Magic}, for more on this.</p><p><strong>Specialisations</strong>: Battle Tongue, Bretonnian, Classical, Guilder, Khazalid, Magick, Thief, Tilean</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>OPTIONS: BATTLE TONGUE</em></h3><p><em>Battle Tongue represents a series of simple commands and gestures that may be made in the heat of combat. Players with language (Battle Tongue) may communicate briefly with one another during combat without penalty. Those without the Skill cannot quickly coordinate their attacks or discuss strategy once combat begins.</em></p></blockquote><div class=\"journal-image centered\"><img src=\"modules/wfrp4e-core/art/other/secret-knights.webp\" width=\"229\" height=\"271\" /></div><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>LANGUAGES OF THE OLD WORLD</em></h3><p><em>Here is a list of the primary languages of the Old World, and who most commonly speaks them. There are an enormous number of other tongues spoken, but these are the most commonly encountered in the Reikland.</em></p><table style=\"width:100%;height:289px\" border=\"1\"><tbody><tr><td><em><strong>Language</strong></em></td><td><em><strong>Spoken by...</strong></em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Albion</em></td><td style=\"height:17px\"><em>…the folk of Albion, who hail from a far-off mist-shrouded island-realm and are rarely encountered.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Battle Tongue</em></td><td style=\"height:17px\"><em>…warriors of the Old World. It is very common amongst soldiers and mercenaries and is used for giving orders swiftly during battle. It was supposedly developed by the goddess Myrmidia when she walked the Old World as a mortal.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Bretonnian</em></td><td style=\"height:17px\"><em>…the folk of Bretonnia, who are commonly encountered in the Reikland. Bretonnia is a chivalric realm to the south-west of the Empire.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Classical</em></td><td style=\"height:17px\"><em>…Human academics of all kinds. It is the first recorded Human language of the Old World — over 3,000 years old — used in most scholarly texts of the Empire including wizard grimoires and many holy books.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Elthárin</em></td><td style=\"height:17px\"><em>…the folk of Athel Loren, the Laurelorn, and visiting merchants from Ulthuan. Elthárin is the language of the Elves. The tonal language has many dialects, and is notoriously difficult for non-Elves to learn.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Estalian</em></td><td style=\"height:17px\"><em>…the folk of Estalia, people of the hot, southern-western kingdoms known for their bitter politics and worship of the goddess Myrmidia.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Gospodarinyi</em></td><td style=\"height:17px\"><em>…the folk of Kislev, a hardy people from the frozen oblasts to the east of the Empire. The language is often called ‘Kislevarin’ or ‘Kislevite’ by outsiders.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Grumbarth</em></td><td style=\"height:17px\"><em>…Ogres; few others learn this simple tongue, though some mercenary commanders find it useful for communicating with any Ogres they may hire.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Khazalid</em></td><td style=\"height:17px\"><em>…the folk of Karaz Ankor, the Dwarf kingdoms in the mountains. This language is also wide-spread through the Cult of Sigmar, which venerates the strong relationship Sigmar had with the Dwarfs when he was mortal.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Magick</em></td><td style=\"height:17px\"><em>…wizards; a tonal language used to shape the Winds of Magic into material effects. The academic form of the language taught by the Colleges of Magic is called the Lingua Praestantia , which is quite different to the debased form of the language used by witches and the untrained. It is not a language used for communication.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Mootish</em></td><td style=\"height:17px\"><em>…the folk of the Mootland; i.e.: the Halfling grand province in the Empire. This language is little known outside the Moot.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Norse</em></td><td style=\"height:17px\"><em>…the folk of Norsca. Norse is commonly spoken across the north of the Empire in Nordland and Ostland, and is well-known in the Wasteland and Kislev, too. </em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Reikspiel</em></td><td style=\"height:17px\"><em>…the folk of the Empire. Reikspiel is the primary language used in most WFRP games. It manifests in uncounted discrete dialects from across the Empire, most of which are mutually intelligible. It is the modern version of the tongue once spoken by the God-King Sigmar when he still walked as a mortal over two thousand five hundred years ago.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Queekish</em></td><td style=\"height:17px\"><em>…the folk of the Under-Empire. Used by the Skaven and their many slaves. Few admit to speaking it, or even being aware of its existence.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Tilean</em></td><td style=\"height:17px\"><em>…the folk of Tilea, who are most commonly encountered in the Empire as traders or mercenaries. The Tilean Princedoms to the south are notorious for their deadly politics and their veneration of Myrmidia.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Thieves Tongue</em></td><td style=\"height:17px\"><em>…street folk of the Old World. Expressions of this language are highly localised and individual to each realm; e.g. Tileans sport a completely different ‘Thieves Tongue’ to folk of the Empire.</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Wastelander</em></td><td style=\"height:17px\"><em>...the rural folk of the Wasteland, a windswept territory to the west of the Reikland. The official language of the Wasteland’s capital, Marienburg, is Reikspiel, a reminder that the realm was once part of the Empire.</em></td></tr></tbody></table></blockquote>",
+        "content": "<p><strong>(Инт) </strong><em><strong>профессиональный, сгруппированный</strong></em></p><p>Навык Язык даёт доступ к дополнительным языкам, помимо родного. Все персонажи автоматически владеют Рейкспилем — языком Империи — и своим родным языком (если он отличается), без необходимости совершать тесты. Если кампания проходит за пределами Империи, вместо Рейкспиля используйте местный язык.</p><p>Обладая навыком Язык, вы обычно можете объясниться на нём или понять простые идеи. Тест требуется, когда нужно передать сложные понятия или используется редкий диалект.</p><p><strong>Примечание</strong>: Язык (Магия) используется для произнесения заклинаний и может требовать тестирования, иногда с неприятными последствиями при провале. См. @UUID[JournalEntry.YBVrpUHEjohB1H4f]{Магия}.</p><p><strong>Специализации</strong>: Боевой язык, Бретонский, Классический, Гильдейский, Казалид, Магия, Воровской, Тилеанский.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ОПЦИИ: БОЕВОЙ ЯЗЫК</em></h3><p><em>Боевой язык — это серия коротких команд и жестов для боя. Игроки с этим языком могут кратко переговариваться в бою без штрафов. Те, кто не владеет им, не могут быстро согласовывать действия после начала схватки.</em></p></blockquote><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ЯЗЫКИ СТАРОГО СВЕТА</em></h3><p><em>Ниже приведены основные языки Старого Света и те, кто обычно ими владеет. Существуют и десятки других наречий, но эти встречаются чаще всего в Рейкланде.</em></p> ... [таблица остаётся без изменений, можно лишь заменить названия языков на русские транслитерации при необходимости] ... </blockquote>",
         "markdown": ""
       },
       "video": {
@@ -887,7 +798,7 @@
       }
     },
     {
-      "name": "Leadership",
+      "name": "Лидерство",
       "type": "text",
       "_id": "haKq6qZXYj7Bweu4",
       "title": {
@@ -897,7 +808,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Fel) </strong><em><strong>basic</strong></em></p><p>A measure of your ability to lead others and command their respect. While most often associated with martial situations, a resolute leader can quickly direct a fast response to a fire or other such calamity, and nobles use the Skill frequently to command their lessers.</p><p>A successful Leadership Test allows you to issue orders to a number of targets equal to your Fellowship Bonus + SL. If the targets are your natural subordinates — a noble commanding serfs, or a sergeant commanding his troops — commands are usually unopposed. If there is no natural hierarchy in place, or the order is particularly challenging — such as ordering your soldiers to charge a Hydra head on — the Test is Opposed by your targets’ Cool.</p><p>In combat, you may use Leadership to encourage your subordinates. A successful Leadership Test confers a bonus of +10 to all @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.5w5YLPNd6AaU4f85#psychology-test]{Psychology Tests} until the end of the next round.</p><p>Further, Leadership can be used to transfer Advantage to allies able to hear you; following a successful Leadership Test, you may transfer an Advantage to one ally of your choice, plus a further +1 Advantage per SL scored, which can again go to any allies of your choice within earshot.</p><p><strong>Example</strong>: <em>Lord Ludwig von Schemp has been watching his two bodyguards discourse with some ruffians for three Rounds, using his Intuition Skill to build up 3 Advantage. Feeling it is going nowhere, he issues a peremptory order to attack the ringleader; passing his Leadership Test with 5 SL, he gives one bodyguard 2 of his Advantage, and the remaining bodyguard 1 Advantage, hoping this will bring a swift end to proceedings.</em></p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>WHO’S THE BOSS?</em></h3><p><em>GMs should be aware that having Players issue orders to other Players may cause friction within the party. If you have Players who are of differing social class, or military ranks, be sure to discuss how this will be reflected in your intraparty dynamics to ensure a smooth and enjoyable game for everyone.</em></p></blockquote>",
+        "content": "<p><strong>(Общ) </strong><em><strong>основной</strong></em></p><p>Отражает вашу способность вести за собой и внушать уважение. Хотя чаще всего используется в боевых ситуациях, решительный лидер способен скоординировать быстрые действия и при пожаре, и при других бедствиях. Знать также часто использует Лидерство, чтобы отдавать приказы своим подчинённым.</p><p>Успешный тест Лидерства позволяет отдать приказы числу целей, равному вашему Бонусу Общения + SL. Если приказы адресованы вашим естественным подчинённым — дворянин командует крестьянами или сержант своими солдатами, — тест обычно не оппонируется. Если же иерархии нет или приказ крайне сложен (например, велеть атаковать гидру в лоб), тест оппонируется Хладнокровием цели.</p><p>В бою вы можете использовать Лидерство, чтобы вдохновить подчинённых. Успешный тест даёт +10 ко всем @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.5w5YLPNd6AaU4f85#psychology-test]{Психологическим тестам} союзников до конца следующего раунда.</p><p>Кроме того, Лидерство позволяет передавать Преимущество союзникам, которые вас слышат. После успешного теста вы можете передать 1 Преимущество выбранному союзнику плюс ещё +1 за каждый SL, распределяя их по своему выбору.</p><p><strong>Пример</strong>: <em>Лорд Людвиг фон Шемп три раунда наблюдал за тем, как его телохранители спорят с бандитами, накапливая 3 Преимущества с помощью Интуиции. Поняв, что это бесполезно, он отдаёт приказ атаковать главаря. Пройдя тест Лидерства с 5 SL, он передаёт одному телохранителю 2 Преимущества, а другому — 1 Преимущество, надеясь быстрее закончить дело.</em></p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>КТО ГЛАВНЫЙ?</em></h3><p><em>Ведущим стоит помнить, что приказы одного игрока другим могут вызвать напряжение в группе. Если персонажи принадлежат к разным социальным слоям или воинским званиям, обсудите заранее, как это будет отражаться в игре.</em></p></blockquote>",
         "markdown": ""
       },
       "video": {
@@ -922,7 +833,7 @@
       }
     },
     {
-      "name": "Lore",
+      "name": "Знание",
       "type": "text",
       "_id": "F0RPpWALOBy2zdyc",
       "title": {
@@ -932,7 +843,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Int) </strong><em><strong>advanced, grouped</strong></em></p><p>Having a Lore Skill means you’ve been formally taught, or have somehow otherwise learned, a branch of specialist knowledge. Possessing a Lore Skill means you are broadly knowledgeable in the specialisation and don’t need to make a Test in order for the GM to supply you with relevant facts. If you are seeking specific, less well-known information, you will be required to make a Lore Test, modified by how obscure the information is, with the SL indicating how much detail you recall. </p><p>In combat, successful Lore Tests may afford you +1 Advantage if appropriate (with your GM’s approval). For instance, Lore (Geology) may give you an edge if fighting in a rocky cavern, or Lore (Engineering) may help you if fighting a foe armed with a complex mechanical device. You may continue building Advantage in subsequent turns providing the circumstances are correct (as determined by the GM) and you are not interrupted; you may gain a maximum Advantage equal to your Intelligence Bonus in this manner.</p><p><strong>Specialisations</strong>: Engineering, Geology, Heraldry, History, Law, Magick, Metallurgy, Science, Theology</p>",
+        "content": "<p><strong>(Инт) </strong><em><strong>профессиональный, сгруппированный</strong></em></p><p>Навык Знание означает, что вы прошли формальное обучение или иным образом получили специализированные знания. Обладая навыком Знание, вы в целом осведомлены в своей специализации и не обязаны совершать Тест, чтобы Ведущий сообщил вам базовые факты. Для получения специфической или редкой информации требуется Тест Знания, модифицированный сложностью информации; количество SL показывает, насколько детально вы всё вспомнили.</p><p>В бою успешный Тест Знания может дать вам +1 Преимущество, если Ведущий решит, что знание применимо. Например, Знание (Геология) поможет в бою в пещере, а Знание (Инженерия) — против врага с механическим оружием. Вы можете продолжать накапливать Преимущества в следующих раундах, пока условия позволяют и вас не прервали. Максимальное количество Преимуществ от Знания равно вашему Бонусу Интеллекта.</p><p><strong>Специализации</strong>: Инженерия, Геология, Геральдика, История, Право, Магия, Металлургия, Наука, Теология</p>",
         "markdown": ""
       },
       "video": {
@@ -957,7 +868,7 @@
       }
     },
     {
-      "name": "Melee",
+      "name": "Рукопашный Бой",
       "type": "text",
       "_id": "mk4p8y3RetTuMe2f",
       "title": {
@@ -967,7 +878,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(WS) </strong><em><strong>basic, grouped</strong></em></p><p>The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialisation indicates training in using a specific class of weapon. If you don’t have the correct Specialisation for a weapon you wish to use, refer to @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8]{Consumers’ Guide} for the correct weapon entry, and what penalties you will suffer. See @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.wmA76Q2zJJ9HrkvA#attacking]{Rules} for more detail about combat and using the Melee Skill.</p><p><strong>Specialisations</strong>: Basic, Brawling, Cavalry, Fencing, Flail, Parry, Pole-Arm, Two-Handed</p>",
+        "content": "<p><strong>(ОБ) </strong><em><strong>основной, сгруппированный</strong></em></p><p>Навык Рукопашный Бой отражает подготовку к использованию определённого вида оружия ближнего боя. Каждая специализация означает знание конкретного класса оружия. Если у вас нет подходящей специализации, см. @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8]{Путеводитель по снаряжению}, чтобы узнать правила и штрафы. Подробнее см. @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.wmA76Q2zJJ9HrkvA#attacking]{Правила боя}.</p><p><strong>Специализации</strong>: Базовое, Борьба, Кавалерия, Фехтование, Цепное оружие, Парирование, Древковое, Двуручное</p>",
         "markdown": ""
       },
       "video": {
@@ -992,7 +903,7 @@
       }
     },
     {
-      "name": "Navigation",
+      "name": "Ориентирование",
       "type": "text",
       "_id": "rf7gtZko4KJvjFaE",
       "title": {
@@ -1002,7 +913,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(I) </strong><em><strong>basic</strong></em></p><p>Navigation allows you to find your way in the wilderness using landmarks, stellar bodies or maps. Possessing the Navigation Skill means you know roughly where you are, and can find your way between well-known landmarks without a Test. A Test is only required if you are disoriented or travelling far from the beaten path, with success showing you the correct direction, or allowing you to avoid mishap.</p><p>If you are navigating a long journey, your GM may ask for an extended Navigation Test, modified by conditions, visible landmarks, and access to reliable geographical information. The SL required to succeed depends on how far the destination is, with each Test representing between an hour and a day’s travel, depending on the nature of the journey.</p>",
+        "content": "<p><strong>(Инт) </strong><em><strong>основной</strong></em></p><p>Навык Ориентирования позволяет вам находить путь в дикой местности с помощью ориентиров, звёзд или карт. Обладая этим навыком, вы знаете, где примерно находитесь, и можете перемещаться между известными точками без Теста. Тест требуется, если вы сбились с пути или идёте в незнакомой местности; успех указывает верное направление или помогает избежать ошибок.</p><p>При долгих путешествиях Ведущий может попросить вас провести продолжительный Тест Ориентирования, модифицированный условиями, видимостью ориентиров и наличием карт. Необходимое количество SL зависит от дальности путешествия; каждый Тест отражает от часа до дня пути.</p>",
         "markdown": ""
       },
       "video": {
@@ -1027,7 +938,7 @@
       }
     },
     {
-      "name": "Outdoor Survival",
+      "name": "Выживание",
       "type": "text",
       "_id": "cFqWFER60SjM5Wn3",
       "title": {
@@ -1037,7 +948,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Int) </strong><em><strong>basic</strong></em></p><p>The Outdoor Survival Skill is used to survive in the wild, including the ability to fish, hunt, forage, and build fires and shelters. Experienced travellers are skilled at reading the signs of incoming inclement weather and finding the spoor of various dangerous beasts.</p><p>When camping, make an Outdoor Survival Test, modified by the harshness of conditions — for instance, a Test is <strong>Challenging (+0)</strong> if it is raining, <strong>Hard (–20)</strong> in a storm. A successful Test indicates you can provide yourself sustenance and shelter for the night. Each SL allows you to provide for one more character. If the Test is failed, you must make a <strong>Challenging (+0) Endurance</strong> Test or receive the @Condition[Fatigued] Condition. If you suffer an Astounding Failure, something untoward has happened, as determined by the GM; perhaps your camp is attacked in the night?</p><p>When fighting in the wilderness, you may make an Outdoor Survival Test to receive +1 Advantage, in the same way as Intuition, to a maximum number of Advantage equal to your Intelligence Bonus, as you spy out treacherous and advantageous terrain that you can best use to your advantage.</p><blockquote class=\"sidebar\"><h4 style=\"text-transform:uppercase\" class=\"sidebar-title\"><em>Options: Gathering Food and Herbs</em></h4><p><em>Gathering food or herbs normally takes around 2 hours. Hunting and foraging parties make one Assisted Outdoor Survival Test for the group, with the Difficulty determined by the circumstances.</em></p><ul><li><p><em><strong>Foraging</strong>: A success grants enough food for one character. Every SL yields sufficient extra food for one more person.</em></p></li><li><p><em><strong>Hunting and Fishing</strong>: If you have appropriate bows, spears, fishing rods, or nets, a successful Test feeds two people, and an extra two people per SL.</em></p></li><li><p><em><strong>Trapping</strong>: Use the Set Trap Skill to place @UUID[Compendium.wfrp4e-core.items.k0KeWhPgFGUcOgs0]{Animal traps}). Feeds the same number of people as </em>Hunting and Fishing<em>.</em></p></li><li><p><em><strong>Lore (Herbs)</strong>: If you are instead gathering herbs using Lore (Herbs), a success gathers enough for a dose of the sought herb (see @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.PYiffieXenZHBUAU]{Herbs and Draughts}), with each SL adding an extra dose. Gathering tests are modified by herb Availability: Common (0), Scarce (–10), Rare (–20), or Exotic (–30).</em></p></li></ul></blockquote>",
+        "content": "<p><strong>(Инт) </strong><em><strong>основной</strong></em></p><p>Навык Выживания используется, чтобы жить в дикой местности: охотиться, рыбачить, собирать съестное, строить укрытия и добывать огонь. Опытные путешественники умеют предсказывать погоду и находить следы зверей.</p><p>При организации лагеря совершается Тест Выживания, модифицированный условиями. Например, <strong>Сложный (+0)</strong> при дожде, <strong>Тяжёлый (–20)</strong> в бурю. Успешный Тест позволяет обеспечить едой и кровом себя; каждый SL даёт возможность обеспечить ещё одного персонажа. При провале совершается <strong>Сложный (+0) Тест Выносливости</strong>, иначе вы получаете состояние @Condition[Fatigued]{Уставший}. При сокрушительном провале может случиться беда — например, нападение ночью.</p><p>В бою успешный Тест Выживания может дать +1 Преимущество (как Интуиция), до максимума равного вашему Бонусу Интеллекта, так как вы используете особенности местности себе во благо.</p><blockquote class=\"sidebar\"><h4 style=\"text-transform:uppercase\" class=\"sidebar-title\"><em>Опции: Сбор еды и трав</em></h4><p><em>Сбор обычно занимает 2 часа. Группа охотников или собирателей делает один совместный Тест Выживания; сложность зависит от условий.</em></p><ul><li><p><em><strong>Собирательство</strong>: успех даёт еды на одного. Каждый SL обеспечивает ещё одного.</em></p></li><li><p><em><strong>Охота и Рыбалка</strong>: при наличии оружия или снастей успех даёт еды на двоих, плюс ещё на двоих за каждый SL.</em></p></li><li><p><em><strong>Ловушки</strong>: используйте навык Установка Ловушек. Добыча рассчитывается как при охоте.</em></p></li><li><p><em><strong>Лор (Травы)</strong>: если ищете травы, успех даёт дозу искомого растения, плюс ещё по одной за каждый SL. Сложность зависит от редкости: Обычное (0), Редкое (–10), Очень редкое (–20), Экзотическое (–30).</em></p></li></ul></blockquote>",
         "markdown": ""
       },
       "video": {
