@@ -483,7 +483,7 @@
       }
     },
     {
-      "name": "Артистизм",
+      "name": "Исполнение",
       "type": "text",
       "_id": "hrCbYa4b2iKPgBui",
       "title": {
@@ -493,7 +493,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Х) </strong><em><strong>основной, сгруппированный</strong></em></p><p>Позволяет развлекать публику словом — будь то пение, актёрская игра или попытка рассказать пару шуток. Успешное использование навыка Артистизм означает, что вы развлекли слушателей поблизости; SL показывает, насколько хорошо вы справились.</p><p>В бою Артистизм вряд ли пригодится, хотя вы можете придумать способ использовать Артистизм (Актёрское мастерство), чтобы запутать или ввести противников в заблуждение.</p><p><strong>Специализации</strong>: Актёрское мастерство, Комедия, Пение, Рассказ историй</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ВЕСЬ СТАРЫЙ СВЕТ — СЦЕНА…</em></h3><p><em>Несмотря на некоторые пересечения между Артистизмом, Исполнением и Игрой, каждый отражает отдельную группу умений.</em></p><p><em>Артистизм — это Основной навык на Харизму. Он отражает те формы развлечения, которыми может заняться каждый, даже без подготовки: например, пение или рассказывание историй.</em></p><p><em>@UUID[.6MQIGorN3WgXWfJB]{Исполнение} — это Продвинутый навык на Ловкость. Его специализации требуют обучения и основаны на скорости и координации движений.</em></p><p><em>@UUID[.N63wZOWw6ZLYnePN]{Игра} — тоже Продвинутый навык, но на Ловкость пальцев. Он отражает обучение игре на конкретных музыкальных инструментах, для которых всегда нужны уроки и практика.</em></p><p><em>При выборе специализации решите, к какой категории она относится: к Артистизму, Исполнению или Игре. Подумайте, как персонаж физически реализует умение, и может ли новичок хоть как-то его применить. Ведь кто угодно может попробовать спеть, но вот дать ему волынку…</em></p></blockquote>",
+        "content": "<p><strong>(Л) </strong><em><strong>профессиональное, со специализациями</strong></em></p><p>Вы овладели физически требовательным искусством — возможно, чтобы зарабатывать на жизнь, выступая уличным артистом или в составе бродячего карнавала. Успешное применение Исполнения позволяет вам развлекать зрителей в пределах видимости и слышимости; количество УП показывает, насколько хорошо вы справились.</p><p>В бою некоторые специализации Исполнения могут дать преимущество. С разрешения Мастера Исполнение (Акробатика) может использоваться вместо Уклонения. Другие специализации могут отвлечь врагов, позволяя получить Преимущество, если вы найдёте креативный способ это сделать. Некоторые же умения можно применять и напрямую как оружие, если у вас есть соответствующие принадлежности, например, Исполнение (Огненное дыхание)!</p><p><strong>Специализации</strong>: Акробатика, Клоунада, Танцы, Огненное дыхание, Жонглирование, Пантомима, Хождение по канату</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ВЕСЬ СТАРЫЙ СВЕТ — СЦЕНА…</em></h3><p><em>Хотя между навыками Артистизма, Исполнения и Игры есть пересечения, каждый отражает свою сферу.</em></p><p><em>@UUID[.hrCbYa4b2iKPgBui]{Артистизм} — Основной навык, использует Харизму. Это умения, которыми может попытаться воспользоваться любой, даже без подготовки, например, пение или рассказывание историй.</em></p><p><em>Исполнение — Профессиональный навык, использует Ловкость. Для специализаций Исполнения требуется обучение, и они опираются на скорость и координацию движений.</em></p><p><em>@UUID[.N63wZOWw6ZLYnePN]{Игра} — также Профессиональный навык, но использует Ловкость рук. Он отражает обучение игре на конкретных музыкальных инструментах, для чего нужно преподавание и практика.</em></p><p><em>Выбирая, к чему отнести вашу специализацию — к Артистизму, Исполнению или Игре, учитывайте, как персонаж будет физически исполнять навык, и сможет ли новичок сделать это хоть с каким-то успехом. В конце концов, человек без музыкальной подготовки может красиво петь, но попробуйте вручить ему волынку…</em></p></blockquote>",
         "markdown": ""
       },
       "video": {
@@ -973,114 +973,114 @@
       }
     },
     {
-      "name": "Perception",
-      "type": "text",
-      "_id": "6Jhks0zDRpJeN6dW",
-      "title": {
-        "show": true,
-        "level": 4
-      },
-      "image": {},
-      "text": {
-        "format": 1,
-        "content": "<p><strong>(I) </strong><em><strong>basic</strong></em></p><p>Your ability to notice things with your senses — sight, smell, hearing, touch, and taste, and any other senses you may possess, such as magical or non-Human senses. Your GM may ask for a Perception Test to detect something, like movement behind the treeline, the presence of a trap, or someone following you, modified by how easy it is to notice. Perception is also used to resist attempts to hide things through Skills such as Sleight of Hand or Stealth.</p><p>Perception has multiple uses in combat, most commonly to notice important details beyond the immediately obvious about the surrounding environment and your opponents, as determined by the GM.</p>",
-        "markdown": ""
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
-      "sort": 3200000,
-      "flags": {
-        "core": {}
-      },
-      "_stats": {
-        "coreVersion": "13.348",
-        "systemId": "wfrp4e",
-        "systemVersion": "9.1.5",
-        "lastModifiedBy": null
-      },
-      "category": null,
-      "ownership": {
-        "default": -1
-      }
-    },
-    {
-      "name": "Perform",
-      "type": "text",
-      "_id": "6MQIGorN3WgXWfJB",
-      "title": {
-        "show": true,
-        "level": 4
-      },
-      "image": {},
-      "text": {
-        "format": 1,
-        "content": "<p><strong>(Ag) </strong><em><strong>advanced, grouped</strong></em></p><p>You’ve learned a physically demanding art, perhaps as a way of making a living, maybe as a street entertainer or as part of a travelling carnival. A successful use of the Perform Skill allows you to entertain all patrons close enough to see and hear you; the SL indicate how well you have done.</p><p>In combat, certain physical Perform specialisations may give you an edge. With your GM’s permission, Perform (Acrobatics) may be used in lieu of Dodge. Other Perform Skills may be useful in distracting foes, perhaps gaining you an Advantage if you can come up with a creative way to do so. And some Perform skills can be directly used as a weapon if you have the correct trappings, such as Perform (Firebreathing)!</p><p><strong>Specialisations</strong>: Acrobatics, Clowning, Dancing, Firebreathing, Juggling, Miming, Rope Walking</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>THE OLD WORLD’S A STAGE…</em></h3><p><em>While there is some overlap between the Skills of Entertain, Perform, and Play, each reflects a distinct group of Skills.</em></p><p><em>@UUID[.hrCbYa4b2iKPgBui]{Entertain} is a Basic Skill using Fellowship. It represents those Skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</em></p><p><em>Perform is an Advanced Skill using Agility. Perform Specialisations require training to attempt, and rely on physical speed and coordination.</em></p><p><em>@UUID[.N63wZOWw6ZLYnePN]{Play} is also an Advanced Skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</em></p><p><em>You should choose carefully when determining whether your chosen Specialisation belongs to Entertain, Perform, or Play; consider how the character will physically enact the Skill, and whether an untrained beginner could do so with any success. After all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</em></p></blockquote>",
-        "markdown": ""
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
-      "sort": 3300000,
-      "flags": {
-        "core": {}
-      },
-      "_stats": {
-        "coreVersion": "13.348",
-        "systemId": "wfrp4e",
-        "systemVersion": "9.1.5",
-        "lastModifiedBy": null
-      },
-      "category": null,
-      "ownership": {
-        "default": -1
-      }
-    },
-    {
-      "name": "Pick Lock",
-      "type": "text",
-      "_id": "XexqYWmxO5dy2us3",
-      "title": {
-        "show": true,
-        "level": 4
-      },
-      "image": {},
-      "text": {
-        "format": 1,
-        "content": "<p><strong>(Dex) </strong><em><strong>advanced</strong></em></p><p>You know the mechanisms of locks and how to open them without their proper keys. Picking a lock is often an Extended Test, with the number of SL required to open the lock dependent on the complexity of the lock.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>LOCKS AND LOCK PICKS</em></h3><p><em>Lock Difficulty ratings assume the use of lock picks. Improvised picks such as hairpins and nails can be used at –10 penalty. Each Test normally takes a Round to complete, though the GM may determine some locks are particularity stiff or rusted, and take longer. If the GM deems a lock is sufficiently simple, unskilled characters can attempt a single Very<strong> Hard (–30) Dexterity</strong> Test to pick the lock. The following provides some standard difficulties for locks typically encountered in the Old World.</em></p><table style=\"width:100%;height:95px\" border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px\"><em><strong>Lock Type</strong></em></td><td style=\"height:17px\"><em><strong>Difficulty</strong></em></td><td style=\"height:17px;text-align:center\"><em><strong>SL</strong></em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Latch</em></td><td style=\"height:17px\"><em>Average (+20)</em></td><td style=\"height:17px;text-align:center\"><em>0</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Normal Door</em></td><td style=\"height:17px\"><em>Challenging (+0)</em></td><td style=\"height:17px;text-align:center\"><em>2</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Secure Door</em></td><td style=\"height:17px\"><em>Difficult (-10)</em></td><td style=\"height:17px;text-align:center\"><em>2</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Treasure Chest</em></td><td style=\"height:17px\"><em>Hard (-20)</em></td><td style=\"height:17px;text-align:center\"><em>5</em></td></tr><tr style=\"height:10px\"><td style=\"height:10px\"><em>Vault Door</em></td><td style=\"height:10px\"><em>Very Hard (-30)</em></td><td style=\"height:10px;text-align:center\"><em>10</em></td></tr></tbody></table></blockquote>",
-        "markdown": ""
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
-      "sort": 3400000,
-      "flags": {
-        "core": {
-          "sheetClass": ""
+        "name": "Наблюдательность",
+        "type": "text",
+        "_id": "6Jhks0zDRpJeN6dW",
+        "title": {
+          "show": true,
+          "level": 4
+        },
+        "image": {},
+        "text": {
+          "format": 1,
+          "content": "<p><strong>(Инт) </strong><em><strong>основное</strong></em></p><p>Ваша способность замечать вещи с помощью органов чувств — зрения, слуха, обоняния, осязания и вкуса, а также любых иных чувств, которыми вы обладаете, например, магических или нелюдских. Мастер может попросить вас сделать проверку Наблюдательности, чтобы заметить что-то: движение за деревьями, наличие ловушки или преследователя; сложность проверки зависит от того, насколько это легко обнаружить. Наблюдательность также используется, чтобы противостоять попыткам скрыть что-то с помощью таких навыков, как Ловкость рук или Скрытность.</p><p>В бою Наблюдательность имеет множество применений, чаще всего — чтобы заметить важные детали окружающей обстановки и действий противников, выходящие за пределы очевидного, на усмотрение Мастера.</p>",
+          "markdown": ""
+        },
+        "video": {
+          "controls": true,
+          "volume": 0.5
+        },
+        "src": null,
+        "system": {},
+        "sort": 3200000,
+        "flags": {
+          "core": {}
+        },
+        "_stats": {
+          "coreVersion": "13.348",
+          "systemId": "wfrp4e",
+          "systemVersion": "9.1.5",
+          "lastModifiedBy": null
+        },
+        "category": null,
+        "ownership": {
+          "default": -1
         }
       },
-      "_stats": {
-        "coreVersion": "13.348",
-        "systemId": "wfrp4e",
-        "systemVersion": "9.1.5",
-        "lastModifiedBy": null
+      {
+        "name": "Исполнение",
+        "type": "text",
+        "_id": "6MQIGorN3WgXWfJB",
+        "title": {
+          "show": true,
+          "level": 4
+        },
+        "image": {},
+        "text": {
+          "format": 1,
+          "content": "<p><strong>(Л) </strong><em><strong>профессиональное, со специализациями</strong></em></p><p>Вы овладели физически требовательным искусством — возможно, чтобы зарабатывать на жизнь, выступая уличным артистом или в составе бродячего карнавала. Успешное применение Исполнения позволяет вам развлекать зрителей в пределах видимости и слышимости; количество УП показывает, насколько хорошо вы справились.</p><p>В бою некоторые специализации Исполнения могут дать преимущество. С разрешения Мастера Исполнение (Акробатика) может использоваться вместо Уклонения. Другие специализации могут отвлечь врагов, позволяя получить Преимущество, если вы найдёте креативный способ это сделать. Некоторые же умения можно применять и напрямую как оружие, если у вас есть соответствующие принадлежности, например, Исполнение (Огненное дыхание)!</p><p><strong>Специализации</strong>: Акробатика, Клоунада, Танцы, Огненное дыхание, Жонглирование, Пантомима, Хождение по канату</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ВЕСЬ СТАРЫЙ СВЕТ — СЦЕНА…</em></h3><p><em>Хотя между навыками Артистизма, Исполнения и Игры есть пересечения, каждый отражает свою сферу.</em></p><p><em>@UUID[.hrCbYa4b2iKPgBui]{Артистизм} — Основной навык, использует Харизму. Это умения, которыми может попытаться воспользоваться любой, даже без подготовки, например, пение или рассказывание историй.</em></p><p><em>Исполнение — Профессиональный навык, использует Ловкость. Для специализаций Исполнения требуется обучение, и они опираются на скорость и координацию движений.</em></p><p><em>@UUID[.N63wZOWw6ZLYnePN]{Игра} — также Профессиональный навык, но использует Ловкость рук. Он отражает обучение игре на конкретных музыкальных инструментах, для чего нужно преподавание и практика.</em></p><p><em>Выбирая, к чему отнести вашу специализацию — к Артистизму, Исполнению или Игре, учитывайте, как персонаж будет физически исполнять навык, и сможет ли новичок сделать это хоть с каким-то успехом. В конце концов, человек без музыкальной подготовки может красиво петь, но попробуйте вручить ему волынку…</em></p></blockquote>",
+          "markdown": ""
+        },
+        "video": {
+          "controls": true,
+          "volume": 0.5
+        },
+        "src": null,
+        "system": {},
+        "sort": 3300000,
+        "flags": {
+          "core": {}
+        },
+        "_stats": {
+          "coreVersion": "13.348",
+          "systemId": "wfrp4e",
+          "systemVersion": "9.1.5",
+          "lastModifiedBy": null
+        },
+        "category": null,
+        "ownership": {
+          "default": -1
+        }
       },
-      "category": null,
-      "ownership": {
-        "default": -1
-      }
-    },
+      {
+        "name": "Взлом замка",
+        "type": "text",
+        "_id": "XexqYWmxO5dy2us3",
+        "title": {
+          "show": true,
+          "level": 4
+        },
+        "image": {},
+        "text": {
+          "format": 1,
+          "content": "<p><strong>(ЛР) </strong><em><strong>профессиональное</strong></em></p><p>Вы знаете устройство замков и умеете открывать их без ключа. Взлом замка часто является расширенной проверкой, при этом количество УП, необходимых для открытия, зависит от сложности механизма.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ЗАМКИ И ОТМЫЧКИ</em></h3><p><em>Сложность замков рассчитывается исходя из применения отмычек. Импровизированные инструменты вроде шпилек или гвоздей накладывают штраф –10. Каждая проверка обычно занимает Раунд, хотя Мастер может решить, что особенно тугой или ржавый замок требует больше времени. Если Мастер считает замок достаточно простым, персонажи без навыка могут сделать единственную проверку <strong>Очень сложную (–30) Ловкости рук</strong>, чтобы вскрыть его. Ниже приведены стандартные сложности замков, встречающихся в Старом Свете.</em></p><table style=\"width:100%;height:95px\" border=\"1\"><tbody><tr style=\"height:17px\"><td style=\"height:17px\"><em><strong>Тип замка</strong></em></td><td style=\"height:17px\"><em><strong>Сложность</strong></em></td><td style=\"height:17px;text-align:center\"><em><strong>УП</strong></em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Щеколда</em></td><td style=\"height:17px\"><em>Лёгкая (+20)</em></td><td style=\"height:17px;text-align:center\"><em>0</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Обычная дверь</em></td><td style=\"height:17px\"><em>Средняя (+0)</em></td><td style=\"height:17px;text-align:center\"><em>2</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Усиленная дверь</em></td><td style=\"height:17px\"><em>Сложная (–10)</em></td><td style=\"height:17px;text-align:center\"><em>2</em></td></tr><tr style=\"height:17px\"><td style=\"height:17px\"><em>Сундук с сокровищами</em></td><td style=\"height:17px\"><em>Трудная (–20)</em></td><td style=\"height:17px;text-align:center\"><em>5</em></td></tr><tr style=\"height:10px\"><td style=\"height:10px\"><em>Дверь хранилища</em></td><td style=\"height:10px\"><em>Очень трудная (–30)</em></td><td style=\"height:10px;text-align:center\"><em>10</em></td></tr></tbody></table></blockquote>",
+          "markdown": ""
+        },
+        "video": {
+          "controls": true,
+          "volume": 0.5
+        },
+        "src": null,
+        "system": {},
+        "sort": 3400000,
+        "flags": {
+          "core": {
+            "sheetClass": ""
+          }
+        },
+        "_stats": {
+          "coreVersion": "13.348",
+          "systemId": "wfrp4e",
+          "systemVersion": "9.1.5",
+          "lastModifiedBy": null
+        },
+        "category": null,
+        "ownership": {
+          "default": -1
+        }
+      },
     {
-      "name": "Play",
+      "name": "Музицирование",
       "type": "text",
       "_id": "N63wZOWw6ZLYnePN",
       "title": {
@@ -1090,7 +1090,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Dex) </strong><em><strong>advanced, grouped</strong></em></p><p>Your ability to make music with an instrument, hopefully well enough to impress others. A successful Play Test lets you entertain those near enough to see and hear you; the SL indicates the quality of the piece played.</p><p><strong>Specialties</strong>: Bagpipe, Lute, Harpsichord, Horn, Violin</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>THE OLD WORLD’S A STAGE…</em></h3><p><em>While there is some overlap between the Skills of Entertain, Perform, and Play, each reflects a distinct group of Skills.</em></p><p><em>@UUID[.hrCbYa4b2iKPgBui]{Entertain} is a Basic Skill using Fellowship. It represents those Skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</em></p><p><em>@UUID[.6MQIGorN3WgXWfJB]{Perform} is an Advanced Skill using Agility. Perform Specialisations require training to attempt, and rely on physical speed and coordination.</em></p><p><em>Play is also an Advanced Skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</em></p><p><em>You should choose carefully when determining whether your chosen Specialisation belongs to Entertain, Perform, or Play; consider how the character will physically enact the Skill, and whether an untrained beginner could do so with any success. After all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</em></p></blockquote>",
+        "content": "<p><strong>(Л) </strong><em><strong>профессиональное, со специализациями</strong></em></p><p>Ваше умение играть на музыкальном инструменте — надеемся, достаточно хорошо, чтобы впечатлить слушателей. Успешное испытание по Музицированию позволяет вам развлекать тех, кто находится достаточно близко, чтобы видеть и слышать вас; количество УП показывает качество исполнения.</p><p><strong>Специализации</strong>: Волынка, Лютня, Клавесин, Горн, Скрипка</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ВЕСЬ СТАРЫЙ СВЕТ — СЦЕНА…</em></h3><p><em>Хотя между Артистизмом, Исполнением и Музицированием есть пересечения, каждый отражает отдельную сферу.</em></p><p><em>@UUID[.hrCbYa4b2iKPgBui]{Артистизм} — Основной навык на Харизму. Это умения, которыми может попытаться воспользоваться любой, даже без подготовки, например, пение или рассказывание историй.</em></p><p><em>@UUID[.6MQIGorN3WgXWfJB]{Исполнение} — Профессиональный навык на Ловкость. Специализации Исполнения требуют обучения и зависят от скорости и координации движений.</em></p><p><em>Музицирование — Профессиональный навык на Ловкость. Он отражает обучение игре на конкретных музыкальных инструментах, для чего необходимо преподавание и практика.</em></p><p><em>При выборе специализации учитывайте, к чему её отнести: к Артистизму, Исполнению или Музицированию. Важно, как персонаж будет физически исполнять навык и сможет ли новичок хоть как-то повторить его. Ведь человек без музыкальной подготовки может красиво петь, но попробуйте вручить ему волынку…</em></p></blockquote>",
         "markdown": ""
       },
       "video": {
@@ -1115,7 +1115,7 @@
       }
     },
     {
-      "name": "Pray",
+      "name": "Молиться",
       "type": "text",
       "_id": "NRfh04q1bZBIND0A",
       "title": {
@@ -1125,7 +1125,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Fel) </strong><em><strong>advanced</strong></em></p><p>Your ability to invoke, or otherwise commune with, a deity. For more information on using the Pray Skill to seek divine intervention, see @UUID[JournalEntry.NcH9OhleJFfaUdon.JournalEntryPage.uNYj9n5rXsc8W5GS]{Religion &amp; Belief}.</p><p>In combat, if your GM deems it appropriate considering your circumstances and faith, you may use Pray to meditate and focus your mind. Each round you spend praying in combat — and making a successful Pray Test — gives you +1 Advantage. You can gain additional Advantage this way, up to a maximum of your Fellowship Bonus.</p><p>Further, if your enemies understand your language and recognise (and fear) your deity, the GM may allow you to use Pray in lieu of the Intimidate Skill.</p>",
+        "content": "<p><strong>(Обц) </strong><em><strong>профессиональное</strong></em></p><p>Ваше умение обращаться к божеству или иным образом общаться с ним. Подробнее об использовании навыка Молиться для поиска божественного вмешательства см. @UUID[JournalEntry.NcH9OhleJFfaUdon.JournalEntryPage.uNYj9n5rXsc8W5GS]{Религия и вера}.</p><p>В бою, если Ведущий сочтёт уместным с учётом вашей веры и обстоятельств, вы можете использовать Молиться для медитации и сосредоточения. Каждый раунд, проведённый в молитве — при успешном испытании Молиться — даёт вам +1 Преимущество. Таким образом можно накапливать Преимущества вплоть до значения, равного вашему Бонусу Обаяния.</p><p>Кроме того, если ваши враги понимают ваш язык и признают (и боятся) вашего бога, Ведущий может позволить вам использовать Молиться вместо Запугивания.</p>",
         "markdown": ""
       },
       "video": {
@@ -1150,7 +1150,7 @@
       }
     },
     {
-      "name": "Ranged",
+      "name": "Стрельба",
       "type": "text",
       "_id": "jJYOiSQNgC9v7cM5",
       "title": {
@@ -1160,7 +1160,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(BS) </strong><em><strong>advanced, grouped</strong></em></p><p>Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialisation is specific to a group of ranged weapons. If you don’t have the Ranged Specialisation for a weapon you wish to use, refer to @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8]{Consumers’ Guide} to see what penalties you will suffer when using the weapon. See @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.wmA76Q2zJJ9HrkvA#ranged-combat]{Rules} for full detail about ranged combat.</p><p><strong>Specialisations</strong>: Blackpowder, Bow, Crossbow, Engineering, Entangling, Explosives, Sling, Throwing</p><div class=\"journal-image\"><img class=\"fit\" src=\"modules/wfrp4e-core/art/other/goblin-barrel.webp\" /></div>",
+        "content": "<p><strong>(МТ) </strong><em><strong>профессиональное, со специализациями</strong></em></p><p>Хотя любой может метнуть камень, используя только Меткость, для обращения с луками и пистолетами требуется подготовка и практика. Каждая специализация Стрельбы относится к отдельной группе оружия дальнего боя. Если у вас нет нужной специализации, см. @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8]{Путеводитель потребителя}, чтобы узнать штрафы. Подробные правила приведены в разделе @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.wmA76Q2zJJ9HrkvA#ranged-combat]{Стрельба}.</p><p><strong>Специализации</strong>: Пороховое, Лук, Арбалет, Инженерное, Сетевое, Взрывчатое, Праща, Метательное</p><div class=\"journal-image\"><img class=\"fit\" src=\"modules/wfrp4e-core/art/other/goblin-barrel.webp\" /></div>",
         "markdown": ""
       },
       "video": {
@@ -1185,7 +1185,7 @@
       }
     },
     {
-      "name": "Research",
+      "name": "Исследование",
       "type": "text",
       "_id": "Nv0jexKy05qTOnuN",
       "title": {
@@ -1195,7 +1195,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Int) </strong><em><strong>advanced</strong></em></p><p>How adept you are at pulling useful and frequently obscure knowledge from libraries and other such storehouses of information. Research requires you have the @UUID[Compendium.wfrp4e-core.items.GogGbYxkVdCmiKqf]{Read/Write} Talent.</p><p>Simply possessing the Research Skill indicates you can find straightforward information from a clearly indexed library without a Test given enough time. If you are seeking specific, less well-known information, or you are in a rush, you will be required to make an Extended Research Test, with the Difficulty modified by the library size, and the target SL depending upon the obscurity of the topic.</p><p>Research has no use in combat beyond perhaps finding you a useful manual on sword-fighting techniques.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>RESEARCH AND LIBRARIES</em></h3><p><em>Libraries of the Old World vary from small personal libraries of a few dozen books to vast archives found in the universities and temples of the towns and cities.</em></p><p><em>Using a Research Test in a small library, perhaps to find a specific book, only takes about 5 minutes. By comparison, Research Tests in large libraries can easily takes an hour or more per Test, but are far more likely to find esoteric lore.</em></p></blockquote>",
+        "content": "<p><strong>(Инт) </strong><em><strong>профессиональное</strong></em></p><p>Ваше умение извлекать полезные и часто малоизвестные сведения из библиотек и других хранилищ информации. Для использования навыка Исследование требуется Талант @UUID[Compendium.wfrp4e-core.items.GogGbYxkVdCmiKqf]{Чтение/Письмо}.</p><p>Само наличие этого навыка означает, что вы можете находить простые данные в чётко индексированной библиотеке без испытания, если у вас достаточно времени. Если же вам нужно найти редкие сведения или вы спешите, потребуется расширенное испытание Исследования, сложность которого зависит от размера библиотеки, а цель по УП — от редкости темы.</p><p>В бою Исследование пользы не принесёт, разве что позволит найти полезное руководство по фехтованию.</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>ИССЛЕДОВАНИЯ И БИБЛИОТЕКИ</em></h3><p><em>Библиотеки Старого Света различаются от небольших собраний в десятки книг до огромных архивов университетов и храмов.</em></p><p><em>Использование Исследования в маленькой библиотеке, например для поиска конкретной книги, занимает около 5 минут. Для сравнения, проверка в крупной библиотеке может отнимать час и более, но шансы найти редкие знания там намного выше.</em></p></blockquote>",
         "markdown": ""
       },
       "video": {
@@ -1220,7 +1220,7 @@
       }
     },
     {
-      "name": "Ride",
+      "name": "Вождение",
       "type": "text",
       "_id": "QQukmSP68cF8MzJe",
       "title": {
@@ -1230,8 +1230,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Ag) </strong><em><strong>basic, grouped</strong></em></p><p>How proficient you are at riding a particular group of animals; Ride (Horse), for example, will let you ride Horses, Mules, Donkeys, and similar. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test.</p><p>If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see @UUID[JournalEntry.3ZynTGhFpgwv6l1n]{Bestiary}.</p><p>The Ride skill can be used extensively in combat. See @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.wmA76Q2zJJ9HrkvA#mounted-combat]{Rules}, for more on mounted combat.</p><p><strong>Specialisations</strong>: Demigryph, Great Wolf, Griffon, Horse, Pegasus</p>",
-        "markdown": ""
+        "content": "<p><strong>(Л) </strong><em><strong>основной, со специализациями</strong></em></p><p>Ваше умение управлять верховыми животными. Успешное применение Вождения позволяет уверенно управлять выбранным животным в различных ситуациях. Обычно специализации включают: Лошадь, Осёл, Мул, Грифон и т. д.</p><p><strong>Специализации</strong>: [вставьте здесь официальные наименования]</p>"
       },
       "video": {
         "controls": true,
@@ -1255,7 +1254,7 @@
       }
     },
     {
-      "name": "Row",
+      "name": "Гребля",
       "type": "text",
       "_id": "ACCaGYXdz9yKyxgG",
       "title": {
@@ -1265,7 +1264,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(S) </strong><em><strong>basic</strong></em></p><p>Your prowess at pulling an oar and moving a boat through the water. The Row Skill is typically only used when racing, navigating rapids, desperately avoiding @UUID[Compendium.wfrp4e-core.actors.FmEDHnfAe2iIugpt]{Bog Octopuses}, or similar unusual or dangerous feats. Anyone with the Skill is automatically presumed to be able to scull about a pond, or over a gentle river, without a Test. Those without the skill may have to make a Test for anything but the most basic manoeuvres.</p>",
+        "content": "<p><strong>(С) </strong><em><strong>основной</strong></em></p><p>Ваше мастерство в обращении с вёслами и умении двигать лодку по воде. Навык Гребля обычно используется при гонках, прохождении порогов, отчаянных попытках избежать @UUID[Compendium.wfrp4e-core.actors.FmEDHnfAe2iIugpt]{Болотных осьминогов} или при других опасных манёврах. Считается, что владеющий навыком может без испытания управлять лодкой на спокойном пруду или реке с лёгким течением. Те, у кого навыка нет, должны проходить испытание при любых действиях, кроме самых простых.</p>",
         "markdown": ""
       },
       "video": {
@@ -1290,7 +1289,7 @@
       }
     },
     {
-      "name": "Sail",
+      "name": "Хождение под парусом",
       "type": "text",
       "_id": "DLrOPZtVMLgSyxaj",
       "title": {
@@ -1300,8 +1299,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Ag) </strong><em><strong>advanced, grouped</strong></em></p><p>Your ability to operate and manoeuvre a sailing vessel — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your vessel, you only use the Sail Skill when you must push your vessel to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply sailing with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Sail. The skill can also be used for sailing-related activities like tying knots, or tying others up in knots.</p><p>As sailing one ship is not so different to sailing another, having any Sail Speciality makes all other Sail Specialities Basic Skills for you.</p><p><strong>Specialisations</strong>: Barge, Caravel, Cog, Frigate, Wolfship</p>",
-        "markdown": ""
+        "content": "<p><strong>(Пр) </strong><em><strong>продвинутый, со специализациями</strong></em></p><p>Ваше умение управлять и маневрировать парусным судном — включая работу с канатами, управление рулём, учёт ветра и многое другое. При наличии достаточной обученной команды, проверка по навыку Хождение под парусом требуется только тогда, когда вы вынуждены заставить судно действовать на пределе возможностей: гонка, навигация в особенно опасных местах, борьба с непогодой и подобные испытания. Простое плавание при попутном ветре или спуск по реке не требует проверки для тех, кто владеет этим навыком. Также навык может использоваться для сопутствующих задач, вроде вязки узлов или связывания пленников.</p><p>Так как управление одним судном мало отличается от другого, владение любой специализацией Хождения под парусом делает все остальные специализации базовыми для вас.</p><p><strong>Специализации</strong>: Баржа, Каравелла, Когг, Фрегат, Волчий корабль</p>"
       },
       "video": {
         "controls": true,
@@ -1325,7 +1323,7 @@
       }
     },
     {
-      "name": "Secret Signs",
+      "name": "Тайные знаки",
       "type": "text",
       "_id": "X2FppoPGuEwJKssM",
       "title": {
@@ -1335,8 +1333,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><strong>(Int) </strong><em><strong>advanced, grouped</strong></em></p><p>You’ve been taught how to use clandestine markings only intelligible to members of a select group. There are all manner of reasons why someone may want to leave a secret message: vagabonds might indicate which homeowners are likely to offer alms, thieves may want to indicate weaknesses, or likely marks, while scouts may want to warn one another about a dangerous monster’s lair nearby.</p><p>This Skill does not usually need to be Tested — you can decipher any appropriate signs you can see if you have this Skill. But if the signs have been disturbed, worn away, or if you are pressed for time, then a Test will likely be required. Most messages are very simple, no more than three words.</p><p><strong>Specialisations</strong>: Grey Order, Guild (any one), Ranger, Scout, Thief, Vagabond</p><div class=\"journal-image centered\"><img src=\"modules/wfrp4e-core/art/spot/spot-animal-skull.webp\" width=\"199\" height=\"233\" /></div><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>I SAW THE SIGN…</em></h3><p><em>This is a list of the primary secret signs of the Old World, and those who use them. This is only a tiny sample of those most commonly used in the Reikland; there are many more than this short list suggests, and you are encouraged to create those best fitting your game.</em></p><table style=\"width:100%;height:333px\" border=\"1\"><tbody><tr style=\"height:10px\"><td style=\"height:10px;width:17.8982%\"><strong><span style=\"font-style:normal\">Secret Signs</span></strong></td><td style=\"height:10px;width:82.1018%\"><em><strong>Used by...</strong></em></td></tr><tr style=\"height:68px\"><td style=\"height:68px;width:17.8982%\"><em>Grey Order</em></td><td style=\"height:68px;width:82.1018%\"><em>…Grey Wizards. The secretive Greys use a complex array of signs, many only perceptible to wizards. They mark the land for their wandering wizards, highlighting safe houses, places of danger, areas where wizards are unwelcome, and much more besides.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Guilder</em></td><td style=\"height:51px;width:82.1018%\"><em>…guilders. Many of the larger guilds, from masons to stevedores, have an array of marks and signs used to identify matters of importance to their members.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Ranger</em></td><td style=\"height:51px;width:82.1018%\"><em>…woodsmen and other rural folk. Ranger signs are mostly used to mark territory, point out areas of importance or danger, and indicate safe paths.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Scout</em></td><td style=\"height:51px;width:82.1018%\"><em>…scouts, particularly those employed by armies and mercenary companies. The signs are mostly used to point out foraging areas, routes for supply trains, and significant dangers ahead.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Thief</em></td><td style=\"height:51px;width:82.1018%\"><em>…thieves and rogues. The various gangs and criminal outfits of the towns and cities use a variety of marks to point out bolt holes, easy marks, well-patrolled areas, and more.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Vagabond</em></td><td style=\"height:51px;width:82.1018%\"><em>…wandering vagabonds and pedlars. Vagabond signs are mostly used to identify safe places to sleep, villages to avoid, and sources of food and water.</em></td></tr></tbody></table></blockquote>",
-        "markdown": ""
+        "content": "<p><strong>(Инт) </strong><em><strong>продвинутый, со специализациями</strong></em></p><p>Вас обучили пользоваться условными метками, понятными только членам определённых сообществ. Причины могут быть разными: бродяги отмечают дома, где можно получить милостыню; воры обозначают уязвимости или богатые цели; разведчики оставляют предупреждения о логове чудовищ.</p><p>Проверка по навыку обычно не требуется — вы автоматически распознаёте знаки, если владеете этим умением. Проверка нужна только в случаях, когда символы повреждены, плохо заметны или времени на чтение почти нет. Большинство посланий крайне просты — не более трёх слов.</p><p><strong>Специализации</strong>: Серый Орден, Гильдия (любая), Следопыт, Разведчик, Вор, Бродяга</p><blockquote class=\"sidebar\"><h3 class=\"no-toc\" style=\"text-align:center\"><em>Я УВИДЕЛ ЗНАК…</em></h3><p><em>Здесь приведён список основных тайных знаков Старого Света и тех, кто ими пользуется. Это лишь малая часть наиболее распространённых символов в Рейкланде. Их гораздо больше, и вы можете придумать собственные, подходящие вашей игре.</em></p><table style=\"width:100%;height:333px\" border=\"1\"><tbody><tr style=\"height:10px\"><td style=\"height:10px;width:17.8982%\"><strong><span style=\"font-style:normal\">Тайные знаки</span></strong></td><td style=\"height:10px;width:82.1018%\"><em><strong>Используются...</strong></em></td></tr><tr style=\"height:68px\"><td style=\"height:68px;width:17.8982%\"><em>Серый Орден</em></td><td style=\"height:68px;width:82.1018%\"><em>…серыми магами. Замкнутые в себе чародеи применяют сложные знаки, многие из которых заметны только колдунам. Они помечают местность для своих странствующих собратьев, отмечая убежища, опасные места, запретные зоны и многое другое.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Гильдия</em></td><td style=\"height:51px;width:82.1018%\"><em>…членами гильдий. Многие крупные объединения — от каменщиков до грузчиков — имеют собственные метки, отмечающие важные для их членов вещи.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Следопыт</em></td><td style=\"height:51px;width:82.1018%\"><em>…лесниками и сельскими жителями. Знаки следопытов в основном служат для обозначения территории, указания на важные или опасные места и прокладывания безопасных троп.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Разведчик</em></td><td style=\"height:51px;width:82.1018%\"><em>…разведчиками, особенно нанятыми армиями и наёмниками. Они используют знаки для обозначения мест добычи, маршрутов снабжения и значительных опасностей впереди.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Вор</em></td><td style=\"height:51px;width:82.1018%\"><em>…воровскими шайками и бандитами. Преступные группировки городов применяют разные символы, чтобы отмечать убежища, лёгкие цели, районы с частыми патрулями и прочее.</em></td></tr><tr style=\"height:51px\"><td style=\"height:51px;width:17.8982%\"><em>Бродяга</em></td><td style=\"height:51px;width:82.1018%\"><em>…скитальцами и коробейниками. Они отмечают безопасные места для ночёвки, деревни, которых стоит избегать, и источники еды или воды.</em></td></tr></tbody></table></blockquote>"
       },
       "video": {
         "controls": true,
